@@ -1,7 +1,7 @@
 {
 	"hpath": "$EPC: 
 	"env" : [	
-	{ "EPC_WELCOME: "Hello"
+	{ "EPC": "C:\EPC"}
 	
 	]
 } 
